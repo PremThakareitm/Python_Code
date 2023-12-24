@@ -1,0 +1,5 @@
+#D.keys()
+#D.values()
+#D.clear()
+#D.update(D2)
+#D.pop(key)

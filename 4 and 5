@@ -1,0 +1,21 @@
+WAP to take input as name email age from user using combination of keywords argument and arguments(*args and **kwargs) using function.
+
+WAP to admit the students in the different Departments(pgdm/btech) and count the students.(Class, Object and Constructor)
+
+WAP that has a class store which keeps the record of code and price of product display the menu of all product and prompt his to enter the quantilty of each item required and finally generate the bill  and display the total amount.
+
+#WAP to take input from user for addition of two numbers using (single inheritance).
+#WAP to take input from user(side) to find the area. using class and object.
+
+
+#WAP to create two base classes LU and ITM and one derived class.(multiple inheritance).
+#WAP to create two base classes and Grandfater and derived class Father(Grandfater) and then derived class of childe(Father) inheritance of name and assits.(Multilevel inheritance).
+
+#Wap Design the Library catalogue system using inheritance take base class(library item)and derived class(Book,DVD & Journal) Each derived class should have unique attribute and methods and system should support.Check in and check out the system.(Inheritance and overridding)
+
+#WAP to create my_module for addition of two numbers and import it in main script.
+#WAP to create the Bank Module to perform the operations such as Check the Balance, withdraw and deposit the money in bank account.and import the module in main file.(threading and module)
+#WAP to create different modules (such as BMW,AUDI,NISSAN) having classes and functionality and import them in main file cars.
+#Activity for the package creation and import the modules in it.
+
+
